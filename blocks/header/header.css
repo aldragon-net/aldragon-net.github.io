@@ -1,0 +1,14 @@
+.header {
+  margin-bottom: 56px;
+  display: grid;
+  grid-template-columns: 1fr max-content max-content;
+  column-gap: 16px;
+  align-items: end;
+}
+
+@media screen and (max-width: 960px) {
+  .header {
+    margin-bottom: 48px;
+  }
+}
+
