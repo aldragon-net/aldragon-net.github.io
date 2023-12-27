@@ -1,0 +1,6 @@
+.footer__column-link, .footer__column-link:visited {
+  margin: 0;
+  color: white;
+  text-decoration-line: none;
+  display: block;
+}

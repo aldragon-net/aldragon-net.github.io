@@ -1,0 +1,8 @@
+.link-highlight {
+  opacity: 1;
+  transition: opacity 1s ease-out;
+}
+
+.link-highlight:hover {
+  opacity: 0.4;
+}
